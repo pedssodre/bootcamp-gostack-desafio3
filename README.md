@@ -12,7 +12,7 @@
 
 ## :page_with_curl: Description
 
-This API was developed to be used in a web / mobile application for the final project of the GoStack taught by Rocketseat. The objective was to put into practice the concepts of RESTful API using a relational database (SQL) and one of the KEY / VALUE type.
+This API was developed to be used in a web / mobile application for the final project of the GoStack taught by Rocketseat. The objective was to put into practice the concepts of RESTful API using a relational database (SQL) and a Key Value Store (Redis).
 
 We used Sequelize to connect to PostgreSQL and we also used Redis to optimize the mails sent through queues. We also apply the MVC architecture type and JWT authentications together with Middlewares.
 
